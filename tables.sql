@@ -48,7 +48,8 @@ INSERT INTO `client` (`user_id`, `nom`, `prenom`, `adresse`, `cp`, `ville`, `mai
 (2, 'Harriga', 'Imane', '25 rue Balzac', 75005, 'Paris', 'harriga@gmail.com', 665958741),
 (3, 'Amairi', 'Mohamed', '1 rue de Tunis', 75002, 'Paris', 'mamairi@yahoo.fr', 652354789),
 (4, 'Sow', 'Oumar', '3 Boulevard des Charos', 75003, 'Paris', 'oumars@attitude.sn', 696969691),
-(5, 'Djamat Dubois', 'Prisca', '2bis rue des Folles', 75001, 'Paris', 'kprice@tepu.sp', 754859632);
+(5, 'Djamat Dubois', 'Prisca', '2bis rue des Folles', 75001, 'Paris', 'kprice@live.fr', 754859632),
+(6, 'Iconnu', 'Test', '...', 93430, 'Villetaneuse', 'test@test.fr,', 678345098);
 
 -- --------------------------------------------------------
 
